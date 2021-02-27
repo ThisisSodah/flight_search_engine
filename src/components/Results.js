@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, CardActionArea, Typography } from "@material-ui/core";
+import { Card, CardActionArea } from "@material-ui/core";
 import FlightsCard from "./FlightsCard";
 
 export default function Results(props) {
